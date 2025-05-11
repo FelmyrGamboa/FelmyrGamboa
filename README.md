@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/felmyr-gamboa-3b025b330/](https://www.linkedin.com/in/felmyr-jhude-gamboa/)">
+  <a href="https://www.linkedin.com/in/felmyr-jhude-gamboa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
